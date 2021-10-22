@@ -41,7 +41,7 @@
 
 <main>
 	<div id="wrapper">
-		<h1>방문자 기록부</h1>
+		<h1> 방문자 기록부</h1>
 		{#if backendConnected}
 			<input 
 				type="text" 
